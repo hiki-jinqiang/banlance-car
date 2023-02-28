@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+BAT Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-K
+Removed Pin From Net: NetName=+BAT Pin=U3-7
+Change component parameters: Designator = "D2"; Footprint = "LED0603_W"; UniqueID = "\SBBPFNTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LED0603_W"; UniqueID = "\PYGCRGLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "LED0603_W"; UniqueID = "\GSFQDXEI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SMA"; UniqueID = "\DHEUKSXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW-TH_SS-12D10L9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BAT Pin=S4-2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=S4-1
+Added Pin To Net: NetName=NetC3_2 Pin=U3-7
+Added Net: Name=NetC3_2
+Added Member To Class: ClassName=Sheet2 Member=Component S4 MTS-10x

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-K
+Removed Pin From Net: NetName=+5V Pin=LM1-4
+Removed Pin From Net: NetName=PA15 Pin=P1-2
+Change Component Designator: OldDesignator=KEY0 NewDesignator=S2
+Change Component Designator: OldDesignator=KEY1 NewDesignator=S1
+Change Component Designator: OldDesignator=KEY2 NewDesignator=S3
+Change component parameters: Designator = "D2"; Footprint = "LED0603_W"; UniqueID = "\SBBPFNTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LED0603_W"; UniqueID = "\PYGCRGLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "LED0603_W"; UniqueID = "\GSFQDXEI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "IND-SMD_L12.5-W12.5_RLF12545T"; UniqueID = "\BENBOONE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4"; Footprint = "SW-TH_SS-12D10L9"; UniqueID = "\FHWKQYXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "SMA"; UniqueID = "\DHEUKSXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Room: Name=Sheet2

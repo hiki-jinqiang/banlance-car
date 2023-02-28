@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-K
+Change Component Footprint: Designator=P2 Old Footprint=HDR2.54-M-LI-2P New Footprint=KF128-5.08-2P
+Change Component Designator: OldDesignator=TPS1 NewDesignator=U3
+Added Room: Name=Sheet2

@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=+5V Pin=C5-1
+Removed Pin From Net: NetName=+5V Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-K
+Removed Pin From Net: NetName=+5V Pin=LM1-4
+Removed Pin From Net: NetName=PA15 Pin=P1-2
+Removed Pin From Net: NetName=+5V Pin=P3-5
+Removed Pin From Net: NetName=+5V Pin=P4-2
+Removed Pin From Net: NetName=+BAT Pin=R3-1
+Change Component Comment : Designator=R3 Old Comment=5K New Comment=10k
+Change Component Designator: OldDesignator=KEY0 NewDesignator=S2
+Change Component Designator: OldDesignator=KEY1 NewDesignator=S1
+Change Component Designator: OldDesignator=KEY2 NewDesignator=S3
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED0603_W"; UniqueID = "\SBBPFNTP" ("\SBBPFNTP")
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED0603_W"; UniqueID = "\PYGCRGLW" ("\PYGCRGLW")
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED0603_W"; UniqueID = "\GSFQDXEI" ("\GSFQDXEI")
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND-SMD_L12.5-W12.5_RLF12545T"; UniqueID = "\BENBOONE" ("\BENBOONE")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S4" ("S4"); Footprint = "SW-TH_SS-12D10L9"; UniqueID = "\FHWKQYXS" ("\FHWKQYXS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMA"; UniqueID = "\DHEUKSXR" ("\DHEUKSXR")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805_L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805_L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=LM2(SOT-223)
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3V3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=LM2-1
+Added Pin To Net: NetName=3V3 Pin=LM2-2
+Added Pin To Net: NetName=+5V Pin=LM2-3
+Added Pin To Net: NetName=3V3 Pin=P3-5
+Added Pin To Net: NetName=3V3 Pin=P4-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=VIN
+Added Member To Class: ClassName=Sheet2 Member=Component C11 10uf
+Added Member To Class: ClassName=Sheet2 Member=Component C12 10uf
+Added Member To Class: ClassName=Sheet2 Member=Component LM2 LM117.5.0
+Added Room: Name=Sheet2

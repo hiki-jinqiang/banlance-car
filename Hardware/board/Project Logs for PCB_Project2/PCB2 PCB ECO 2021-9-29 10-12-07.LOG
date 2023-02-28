@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5V Pin=C8-1
+Removed Pin From Net: NetName=8V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-K
+Removed Pin From Net: NetName=8V Pin=LM1-1
+Removed Pin From Net: NetName=GND Pin=LM1-2
+Removed Pin From Net: NetName=+5V Pin=LM1-3
+Added Pin To Net: NetName=8V Pin=C8-1
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=LM1-1
+Added Pin To Net: NetName=+5V Pin=LM1-2
+Added Pin To Net: NetName=8V Pin=LM1-3
+Added Room: Name=Sheet2
